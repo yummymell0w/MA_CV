@@ -1,3 +1,9 @@
 .img-circle {
     border-radius: 50%;
 }
+.w3-mycolor,.w3-hover-mycolor:hover{color:#fff!important;background-color:#4f7c4a!important}
+.w3-text-mycolor{color:#4f7c4a!important}
+.w3-deepgreen,.w3-hover-deepgreen:hover{color:#fff!important;background-color:#355132!important}
+.w3-text-deepgreen{color:#355132!important}
+.w3-light-green,.w3-hover-light-grey:hover,.w3-light-green,.w3-hover-light-green:hover{color:#000!important;background-color:#b7ccb5!important}
+.w3-text-light-green,.w3-hover-text-light-grey:hover,.w3-text-light-green,.w3-hover-text-light-green:hover{color:#b7ccb5!important}
